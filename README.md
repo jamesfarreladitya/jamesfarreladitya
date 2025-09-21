@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently a student at Gadjah Mada University<br>👯 I’m looking to collaborate on college assignments and projects<br>🤝 I’m looking for help with coding in the python language <br>🌱 I’m currently Studying a major in Geophysics<br>💬 I'm very interested in fashion and luxury<br>⚡ Fun fact about me is that i'm a spendthrift-er 
+🔭 I’m currently a student at Gadjah Mada University<br>👯 I’m looking to collaborate on college assignments and projects<br>🤝 I’m looking for help with coding in the python language <br>🌱 I’m currently studying a major in Geophysics<br>💬 I'm very interested in fashion and luxury<br>⚡ Fun fact about me is that i'm a spendthrift-er 
 
 
 ## 🌐 Socials:
